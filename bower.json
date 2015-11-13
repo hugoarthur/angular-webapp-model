@@ -1,0 +1,24 @@
+{
+  "name": "angular-webapp-model",
+  "description": "Model project for Angular webapp.",
+  "authors": [
+    "@hugoarthur"
+  ],
+  "license": "ISC",
+  "moduleType": [
+    "globals"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "dist/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.7",
+    "angular-route": "~1.4.7"
+  }
+}
